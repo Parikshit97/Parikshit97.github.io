@@ -215,6 +215,7 @@ section:nth-child(2n+1){
 }
 
 .timeline-traveller{
+    font-size: 2rem;
     position: sticky;
     top: 25%;
     transform: rotate(90deg);
